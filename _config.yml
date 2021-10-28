@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+title: moara.dev
+description: >-
+  Aprender a programar não é fácil, mas moara.dev vem com o objetivo de tornar
+  a jornada um pouco menos dolorida. Como? Em Português, evitando termos muito
+  técnicos ou em inglês para tópicos iniciantes, exemplos em Ruby e em um
+  ambiente colaborativo.
+baseurl: ""
+url: "https://moara.dev"
+twitter_username: moaradev
+github_username:  moaradev
+theme: minima
+plugins:
+  - jekyll-feed
