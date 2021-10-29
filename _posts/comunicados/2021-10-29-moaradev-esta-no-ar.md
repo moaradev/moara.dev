@@ -72,7 +72,7 @@ outras maneiras de contribuir:
 
 - Encontrou um erro de Português? Você pode corrigir ou apenas avisar;
 - Encontrou um erro de no código? Você pode corrigir ou apenas avisar;
-- Na nova versão de Ruby algo, é feito diferente do que foi explicado no post?
+- Na nova versão de Ruby, algo é feito diferente do que foi explicado no post?
   Você pode atualizar o post ou apenas avisar;
 - A explicação do post ficou confusa? Você pode atualizar o post ou apenas
   avisar;
