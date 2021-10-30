@@ -4,8 +4,11 @@ title: Sobre
 permalink: /sobre/
 ---
 
-_Página em processo de desenvolvimento..._
+Esse site foi idealizado para compartilhar conteúdo acessível, inclusivo, de
+qualidade, gratuito e colaborativo. Feito por e para todas as pessoas
+desenvolvedoras.
 
-Esse site foi criado com [jekyllrb.com](https://jekyllrb.com/).
+Você pode fazer parte desse projeto criando conteúdo, sugerindo correções,
+conteúdos ou melhorias.
 
-O layout utilizado no momento é o [minima](https://github.com/jekyll/minima).
+Criado com [jekyllrb.com](https://jekyllrb.com/) com o layout padrão [minima](https://github.com/jekyll/minima).
