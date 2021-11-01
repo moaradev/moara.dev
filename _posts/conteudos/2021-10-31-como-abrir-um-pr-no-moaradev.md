@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Como abrir um PR"
+title: "Como abrir um PR"
 description: "Você deseja contribuir com o moara.dev e ainda não sabe como?
 Nesse post vamos te ensinar a "forkear" um projeto e abrir um PR para o
 repositório oficial"
-categories: comunicados
+categories: conteudos
 ---
 
 Se você chegou até aqui, imagino que tenha vontade de contribuir com o
