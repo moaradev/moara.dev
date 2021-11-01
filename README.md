@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# Sobre
+
+Esse site foi idealizado para compartilhar conteúdo acessível, inclusivo, de qualidade, gratuito e colaborativo. Feito por e para todas as pessoas desenvolvedoras.
+
+Você pode fazer parte desse projeto criando conteúdo, sugerindo correções, conteúdos ou melhorias.
+
+# moara.dev
+
+Conheça mais detalhes no [primeiro post](https://moara.dev/comunicados/2021/10/29/moaradev-esta-no-ar.html).
+
+[Página em processo de construção...]
