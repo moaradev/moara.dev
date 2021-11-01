@@ -33,7 +33,7 @@ qual deseja "*forkear*" o projeto, conforme imagem abaixo:
 :rotating_light: *Aviso!* :rotating_light:
 
 *No meu caso eu já havia clonado o projeto, por isso consta a mensagem*
-*"You've alreadry forked moara.dev"*
+*"You've already forked moara.dev"*
 
 Após selecionar o perfil no qual terá o uma cópia do projeto, perceberá que
 agora terá um repositório "**moara.dev**" vinculado ao seu perfil e com menção
