@@ -45,3 +45,5 @@ Você pode fazer parte desse projeto criando conteúdo, sugerindo correções, c
 # moara.dev
 
 Conheça mais detalhes no [primeiro post](https://moara.dev/comunicados/2021/10/29/moaradev-esta-no-ar.html).
+
+[Página em processo de construção...]
