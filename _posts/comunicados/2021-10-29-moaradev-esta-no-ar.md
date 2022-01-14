@@ -27,7 +27,7 @@ o tempo livre bem limitado.
 
 # Meu primeiro curso
 
-Em Novembro do ano passado produzi video aulas pela primeira vez para o curso:
+Em Novembro de 2020 produzi video aulas pela primeira vez, onde criei o curso:
 _"MindApp - Desenvolvendo uma Cloud Tags com Ruby"_. Esse curso está na
 [DIO](https://web.digitalinnovation.one){:target="_blank"} e foi uma
 experiência sensacional produzi-lo.

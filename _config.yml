@@ -11,3 +11,8 @@ github_username:  moaradev
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: "imagens"
+    values:
+      image: true
