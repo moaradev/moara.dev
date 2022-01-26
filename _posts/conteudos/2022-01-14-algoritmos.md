@@ -19,6 +19,7 @@ carreira: Algoritmos!
 - [Exemplo em Ruby](#exemplo-em-ruby)
 - [Meu primeiro algoritmo](#meu-primeiro-algoritmo)
 - [Conclusão](#conclusão)
+- [Extra](#extra)
 
 # O que é?
 
@@ -560,3 +561,48 @@ Todo e qualquer feedback construtivo será muito bem recebido no
 [Twitter](https://twitter.com/moaradev).
 
 Obrigado por ter chegado até aqui e até a próxima!
+
+# Extra
+
+**Executando código Ruby no navegador** - _Atualizado em 26/01/2022_
+
+Nosso querido [@frankyston](https://twitter.com/frankyston){:target="_blank"}
+está compartilhando uma [série de vídeos de introdução à
+algoritmos](https://www.youtube.com/watch?v=sJU6xKqCBGU&list=PLTzyV9r-Kb2dC3TmrtQzu4PgBH1lHEBez){:target="_blank"}
+em seu canal no youtube, o
+[ProgramadorShowzim](https://www.youtube.com/c/ProgramadorShowzim){:target="_blank"}.
+Ficamos muito felizes que, [em um dos seus
+vídeos](https://www.youtube.com/watch?v=kHeW68VbroU){:target="_blank"}, esse
+post foi citado e referenciado por ele.
+
+Ele nos disse que não conhecia uma solução de executar códigos Ruby no
+navegador, como o [runrb.io](https://runrb.io){:target="_blank"}, apresentado
+aqui nesse post. Mas a conversa foi ainda mais longe, pois ele nos sugeriu uma
+alternativa ainda mais poderosa: o
+[replit.com](https://replit.com/languages/ruby){:target="_blank"}.
+
+Com [replit.com](https://replit.com/languages/ruby){:target="_blank"} podemos
+pedir que a pessoa que está usando a nossa aplicação digite algum valor para
+ser processado pelo algoritmo. Por exemplo, na solução que implementamos para o
+nosso amigo João, a gente poderia exibir na tela a seguinte mensagem: "Digite
+as notas". Nosso algoritmo ficaria pausado aguardando a digitação das notas
+para depois executar a lógica que implementamos. Isso não é possível com a
+implementação atual do [runrb.io](https://runrb.io){:target="_blank"}.
+
+Além disso, com uma conta gratuita, ganhamos a habilidade de salvar os nossos
+exemplos em arquivos, de compartilhar nosso código com outras pessoas, etc.
+
+Faremos mais alguns testes e provavelmente começaremos a utilizar o
+[replit.com](https://replit.com/languages/ruby){:target="_blank"} nos próximos
+posts, assim como o Frankyston está começando a utilizar nos seus novos vídeos.
+
+O [runrb.io](https://runrb.io){:target="_blank"} vence no quesito simplicidade,
+mesmo sendo em inglês. O
+[replit.com](https://replit.com/languages/ruby){:target="_blank"} parece muito
+simples também quando estamos deslogado, porém, depois da criação da conta o
+número de informações na tela aumentam bastante e acaba ficando um pouco mais
+complicado. Mas fique na paz pois explicaremos tudo aqui quando chegar a hora.
+
+Finalizamos essa atualização agradecendo muito ao Frankyston e também a todas
+as pessoas que estão contribuindo com essa iniciativa, consumindo,
+compartilhando, sugerindo, etc, etc, etc.
